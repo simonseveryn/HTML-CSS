@@ -1,0 +1,56 @@
+body {
+	background: midnightblue;
+}
+.class4 {
+	font-weight: 600;
+	font-size: 20px;
+}
+.class5 {
+	background: ivory;
+}
+img {
+	width: 410px;
+	height: 450px;
+}
+table {
+	border-collapse: collapse;
+	color: black;
+	background: cyan;
+}
+td, th {
+	font-family: verdana, arial, sans-serif;
+	padding: 10px;
+	border: 1px solid ivory;
+}
+h1, h3, h5 {
+	font-family: verdana, arial, sans-serif;
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+	word-spacing: 30px;
+	background: magenta;
+	color: white;
+}
+h3 {
+	background: cyan;
+}
+h4, span {
+	font-family: verdana, arial, sans-serif;
+	color: white;
+}
+p {
+	font-family: verdana, arial, sans-serif;
+	text-indent: 40px;
+	color: white;
+	line-height: 170%;
+}
+a {
+	color: darkviolet;
+}
+button, input, textarea {
+	font-family: verdana, arial, sans-serif;
+	font-weight: 900;
+	color: black;
+	background: ivory;
+}
